@@ -18,11 +18,14 @@
     background-color: #9b59b6;
 }
 
+<<<<<<< HEAD
 .bg-color-contact{
     background-color: #fff;
 }
 
 
+=======
+>>>>>>> 30515a042c69695969f79acfada3fbc7425aa982
 .ui-menu-color-home{
     background-color: #e67e22;
 }
@@ -333,6 +336,7 @@ footer{
 
 .history-items{
     margin-bottom: 30px;
+<<<<<<< HEAD
 }
 
 /*---------------------------------Contact Form */
@@ -366,4 +370,6 @@ button[type="submit"]{
     margin: 0 auto;
     max-width: 50%;
 }
+=======
+>>>>>>> 30515a042c69695969f79acfada3fbc7425aa982
 }
